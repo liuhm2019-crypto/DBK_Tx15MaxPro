@@ -6,6 +6,12 @@
 
 A comprehensive telemetry display widget designed specifically for the Rotorflight  helicopter when used with the RadioMaster TX15 transmitter.
 
+<div align="center">
+  <a href="https://youtu.be/BEuRPKlpn-U">
+    <img src="video.png" alt="DBK Series RadioMasterTX15MAX & TX16MK2 Remote Controller Telemetry Return Interface Sharing" width="600"/>
+  </a>
+</div>
+
 ## Overview
 
 This Lua script provides real-time telemetry monitoring for your Rotorflight , displaying critical flight parameters in an easy-to-read format optimized for the TX15's screen. Simply copy to your SD card and activate in App Mode.
