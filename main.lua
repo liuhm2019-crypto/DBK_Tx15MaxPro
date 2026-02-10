@@ -1312,7 +1312,7 @@ local function refresh(_c9, event, touchState)
        end
      
        
-       local _o8 = (_w3[7][2] and _x8[7][1]) or 0
+       local _o8 = (_w3[6][2] and _x8[6][1]) or 0
        
        _h3(190, 260+_e1, 50, _o8, 100, _n7, _w8)
        
